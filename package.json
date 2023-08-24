@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-101",
+  "version": "1.0.0",
+  "description": "Practising blockchain concepts",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simran Singh",
+  "license": "ISC"
+}
